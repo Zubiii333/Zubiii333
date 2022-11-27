@@ -30,7 +30,7 @@ Programmer | Data Scientist | Machine Learning Enthusiast
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)&nbsp;
 
 
-![Zuby's github activity graph](https://activity-graph.herokuapp.com/graph?username=Zubiii333&bg_color=ffffff&color=777777&line=ff5200&point=1adbce&area=true&hide_border=true)](https://github.com/Zubiii333/github-readme-activity-graph)
+![Zuby's github activity graph](https://activity-graph.herokuapp.com/graph?username=Zubiii333&bg_color=ffffff&color=777777&line=ff5200&point=1adbce&area=true&hide_border=true)]
 
 
 [facebook]: https://www.facebook.com/jubaeir.islam
