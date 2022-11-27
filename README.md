@@ -39,7 +39,7 @@ Programmer | Data Scientist | Machine Learning Enthusiast
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)&nbsp;
 
 <br />
-### Profile Visitors 
+Profile Visitors 
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=Zubiii333.visitor-badge&left_color=blue&right_color=yellow)
 <br />
 
