@@ -29,18 +29,9 @@ Programmer | Data Scientist | Machine Learning Enthusiast
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)&nbsp;
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)&nbsp;
 
-<br />
-### Visitors
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=Zubiii333.visitor-badge&left_color=blue&right_color=yellow)&nbsp;
-<br />
 
 ![Zuby's github activity graph](https://activity-graph.herokuapp.com/graph?username=Zubiii333&bg_color=ffffff&color=777777&line=ff5200&point=1adbce&area=true&hide_border=true)](https://github.com/Zubiii333/github-readme-activity-graph)
 
-
-
-<p><img width="494" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Zubiii333&show_icons=true&locale=en&layout=compact" alt="Zuby" /></p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Zubiii333&show_icons=true&locale=en" alt="Zuby" /></p>
 
 [facebook]: https://www.facebook.com/jubaeir.islam
 [twitter]: https://twitter.com/m1ghtyZuby
