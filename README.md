@@ -3,7 +3,7 @@
 
 Programmer | Data Scientist | Machine Learning Enthusiast
 
-?></h3>
+</h3>
 <p align="center"> <img src="dev-working.gif" alt="Zuby"/> </p>
 
 - 🔭 I’m currently working on **Data Science**
