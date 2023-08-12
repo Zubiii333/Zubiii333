@@ -1,20 +1,20 @@
 <h1 align="center">Hi <img src="https://github.com/NoobMahbub/NoobMahbub/blob/main/Wave.gif" height="55px" width="55px">, I'm A.K.M Jubaeir Islam</h1>
 <h3 align="center">¯\_(ツ)_/¯
 
-Programmer | Data Scientist | Machine Learning Enthusiast
+Programmer | Aspiring DevOps Engineer | Machine Learning Enthusiast
 
 </h3>
 <p align="center"> <img src="dev-working.gif" alt="Zuby"/> </p>
 
-- 🔭 I’m currently working on **Data Science**
+- 🔭 I’m currently working on **Cloud**
 
-- 🌱 I’m currently learning **Machine Learning**
+- 🌱 I’m currently learning **DevOps**
 
 - 👯 I’m looking to collaborate on **Open Source**
 
 - 💬 Ask me about **Anything**
 
-- 📫 How to reach me **jubaeir.islam37@gmail.com**
+- 📫 How to reach me **akm.jubaeir.islam@gmail.com**
 
 - ⚡ Fun fact **404 ERROR**
 
